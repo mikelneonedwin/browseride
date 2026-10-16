@@ -1,5 +1,5 @@
 {
-  "name": "ide",
+  "name": "browseride",
   "private": true,
   "type": "module",
   "imports": {
